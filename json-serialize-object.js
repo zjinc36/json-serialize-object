@@ -29,8 +29,8 @@
 
     var patterns = {
         validate: /^[a-z_][a-z0-9_]*(?:\[(?:\d*|[a-z0-9_]+)\])*$/i,
-        key: /[a-z0-9_]+|(\[\])|(\(\))/gi,
-        push: /^p_\d$/,
+        key: /[a-z0-9_]+|(\[\])/gi,
+        push: /^p_\d+$/,
         fixed: /^\d+$/,
         named: /^[a-z0-9_]+$/i
     };
