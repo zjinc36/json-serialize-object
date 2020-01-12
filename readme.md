@@ -31,7 +31,7 @@ $('form#contact').serializeObject();
 $('form#contact').serializeJSON();
 ```
 
-上述表单转换成json的结果如下:
+上述表单转换成json的结果如下(为了阅读方便,我有进行格式化):
 ```
 {
     "storeInfo":[
