@@ -1,5 +1,5 @@
 ##  项目来源
-本项目是基于这个仓库的代码修改的[https://github.com/macek/jquery-serialize-object](https://github.com/macek/jquery-serialize-object)
+本项目是基于这个仓库的代码修改的[https://github.com/macek/jquery-serialize-object](https://github.com/macek/jquery-serialize-object),由于不符合我的需求,才肝的代码
 
 
 #   API
